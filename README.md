@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 - 📫 How to reach me: dvalvico@gmail.com
 - ⚡ Fun fact: enjoy!
+
+<h2>GitHub Profile views:</h2>
+  <img src="https://profile-counter.glitch.me/davavico22/count.svg" alt="GitHub Views" height="40">
