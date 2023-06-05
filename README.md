@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🧔🏻I’m David Valdivia.
 - 🔭 I’m working on OpenSpring☀.
+- 🖥️ I’m a 🔙🔚 developer and a data analyst.
 - 🌱 I’m currently learning React and Tensorflow.
 - 👯 I’m looking to collaborate on open source.
 - 📫 How to reach me: dvalvico@gmail.com
